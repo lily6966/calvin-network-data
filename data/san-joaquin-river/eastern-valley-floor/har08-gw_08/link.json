@@ -2,8 +2,8 @@
   "prmname": "HARMJ-GW_MJ",
   "description": "Artificial recharge",
   "type": "Diversion",
-  "origin": "HARMJ",
-  "terminus": "GW_MJ",
+  "origin": "HAR08”,
+  "terminus": "GW_08”,
   "amplitude": 0.949999988079071,
   "costs": {
     "type": "Constant",
