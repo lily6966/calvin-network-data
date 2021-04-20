@@ -1,9 +1,9 @@
 {
   "prmname": "C124-HARMJ",
-  "description": "GW-MJ Artificial Recharge",
+  "description": "GW-08 Artificial Recharge",
   "type": "Diversion",
-  "origin": "C124",
-  "terminus": "HARMJ",
+  "origin": “D9”,
+  "terminus": "HAR08”,
   "amplitude": 1,
   "costs": {
     "type": "Constant",
