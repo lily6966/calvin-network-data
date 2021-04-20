@@ -1,0 +1,8 @@
+{"type":"Feature",
+ "geometry":{"type":"Point","coordinates":[-121.224753,38.483303]},
+ "properties":{"prmname”:”C_HAR”,
+ "description":"GW_08 recharge junction node",
+ "type":"Junction",
+ "inflows":null,
+ "sinks":null,
+ "flow":null}}

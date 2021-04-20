@@ -1,0 +1,21 @@
+{
+  "prmname": "D9-C_HAR”,
+  "description": "Lake Natoma export for artificial recharge”,
+  "type": "Diversion",
+  "origin": "D9",
+  "terminus": “C_HAR”,
+  "amplitude": 1,
+  "costs": {
+    "type": "Constant",
+    "cost": 50
+  },
+  "bounds": [
+    {
+      "type": “NOB”
+      
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}
