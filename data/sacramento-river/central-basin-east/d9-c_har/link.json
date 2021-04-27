@@ -1,6 +1,6 @@
 {
   "prmname": "D9-C_HAR”,
-  "description": "Lake Natoma export for artificial recharge”,
+  "description": "Lake Folsom export for artificial recharge”,
   "type": "Diversion",
   "origin": "D9",
   "terminus": “C_HAR”,
