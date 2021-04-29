@@ -1,9 +1,9 @@
 {
-  "prmname": "D9-CHAR”,
-  "description": "Lake Folsom export for artificial recharge”,
+  "prmname": "D9-C_HAR”,
+  "description": "Lake Folsom Export for Artificial Recharge”,
   "type": "Diversion",
   "origin": "D9",
-  "terminus": “CHAR”,
+  "terminus": “C_HAR”,
   "amplitude": 1,
   "costs": {
     "type": "Constant",

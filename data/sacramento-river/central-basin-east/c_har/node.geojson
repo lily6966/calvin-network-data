@@ -1,11 +1,11 @@
 {"type":"Feature",
  "geometry":{"type":"Point","coordinates":[-121.224753,38.483303]},
- "properties":{"prmname”:”CHAR”,
- "description":"GW_08 recharge junction node",
+ "properties":{"prmname”:”C_HAR”,
+ "description":"GW_08 Recharge Junction Node",
  "type":"Junction",
  "inflows":null,
  "sinks":null,
  "flow": {
-    "$ref": "flow.csv"
+    "$ref": "flow.csv”}
   }
 }
