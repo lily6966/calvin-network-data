@@ -1,0 +1,23 @@
+{
+  "prmname": “C_HAR-HAR08”,
+  "description": "Artificial Recharge for Eastern Valley Floor“,
+  "type": "Diversion",
+  "origin": “C_HAR”,
+  "terminus": "HAR08”,
+  "amplitude": 1,
+  "costs": {
+    "type": "Constant",
+    "cost": 14.8000001907349
+  },
+  "bounds": [
+    {
+      "type": "UBM",
+      "bound": {
+        "$ref": "./UBM.csv"
+      }
+    }
+  ],
+  "flow": {
+    "$ref": "flow.csv"
+  }
+}
