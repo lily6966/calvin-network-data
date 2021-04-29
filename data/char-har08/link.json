@@ -1,8 +1,8 @@
 {
-  "prmname": “D9-HAR08”,
+  "prmname": “CHAR-HAR08”,
   "description": "GW-08 Artificial Recharge",
   "type": "Diversion",
-  "origin": “D9”,
+  "origin": “CHAR”,
   "terminus": "HAR08”,
   "amplitude": 1,
   "costs": {
