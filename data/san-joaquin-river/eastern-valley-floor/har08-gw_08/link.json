@@ -1,9 +1,9 @@
 {
-  "prmname": "HAR08-GW_08”,
+  "prmname": "HAR08-GW_08",
   "description": "Artificial Groundwater Recharge",
   "type": "Diversion",
-  "origin": "HAR08”,
-  "terminus": "GW_08”,
+  "origin": "HAR08",
+  "terminus": "GW_08",
   "amplitude": 0.949999988079071,
   "costs": {
     "type": "Constant",
