@@ -1,6 +1,6 @@
 {"type":"Feature",
  "geometry":{"type":"Point","coordinates":[-121.224753,38.483303]},
- "properties":{"prmname":"C158",
+ "properties":{"prmname":"C008”,
  "description":"Folsom South Canal Diversion to GW-08 Pipelines",
  "type":"Junction",
  "inflows":null,
