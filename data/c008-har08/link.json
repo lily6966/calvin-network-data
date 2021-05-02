@@ -1,9 +1,9 @@
 {
-  "prmname": “C_HAR-HAR08”,
-  "description": "Artificial Recharge for Eastern Valley Floor“,
+  "prmname": “C008-HAR08”,
+  "description": "Artificial Recharge for Eastern Valley Floor",
   "type": "Diversion",
-  "origin": “C_HAR”,
-  "terminus": "HAR08”,
+  "origin": "C008",
+  "terminus": "HAR08",
   "amplitude": 1,
   "costs": {
     "type": "Constant",
