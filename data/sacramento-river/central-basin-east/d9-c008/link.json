@@ -3,7 +3,7 @@
   "description": "Lake Folsom Export for Artificial Recharge”,
   "type": "Diversion",
   "origin": "D9",
-  "terminus": “C_HAR”,
+  "terminus": “C008”,
   "amplitude": 1,
   "costs": {
     "type": "Constant",
